@@ -8,9 +8,10 @@ public static void main(String[] args) {
     char cupom;
     
     Scanner leitor = new Scanner(System.in);
+
+    System.out.println("Informe o tipo de cupom:");
 cupom = leitor.next().charAt(0);
 
-System.out.println("Informe o tipo de cupom:");
 
 
 if (cupom == 'S'){
@@ -19,15 +20,11 @@ System.out.println("Cupom validado! Você ganhou um adesivo exclusivo.");
 
 }if (cupom == 'C'){
 
-    
-}
-
-
-
-
 
 }
 
+leitor.close();
 
+}
 
 }
