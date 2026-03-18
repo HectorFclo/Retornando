@@ -20,7 +20,7 @@ public class Uni4Comp05 {
         System.out.println("Informe o tipo de cupom:");
         cupom = leitor.nextLine();
 
-        if (cupom == "SOUFURB") {
+        if (cupom.equals ("SOUFURB")) {
 
             System.out.println("Desconto de 15% aplicado com sucesso!");
 
