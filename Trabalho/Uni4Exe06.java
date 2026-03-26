@@ -1,7 +1,6 @@
 package Trabalho;
 
 import java.util.Scanner;
-
 public class Uni4Exe06 {
 
     public static void main(String[] args) {
@@ -13,6 +12,8 @@ public class Uni4Exe06 {
         System.out.println("Informe o caracter");
         letra = leitor.next().charAt(0);
 
+        letra = Character.toUpperCase(letra);
+        
         if (letra == 'M') {
 
             System.out.println("Masculino.");
