@@ -1,3 +1,4 @@
+package Trabalho;
 /* Enunciado:
 Escreva um algoritmo que obtém do usuário 3 valores inteiros representando as três
 cartas deste usuário em uma mão de jogo de truco. O algoritmo deve imprimir na tela

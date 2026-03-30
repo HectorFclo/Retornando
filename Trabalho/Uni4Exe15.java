@@ -1,3 +1,4 @@
+package Trabalho;
 /* Enunciado:
 Elabore um algoritmo para exibir o valor de reajuste que um funcionário receberá no seu salário.
 A empresa irá conceder 5% de reajuste para o funcionário que for admitido há até de 12 meses.

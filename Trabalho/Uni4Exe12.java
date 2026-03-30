@@ -1,3 +1,4 @@
+package Trabalho;
 /* Enunciado:
 Dados 3 valores lado1, lado2, lado3, que representam os comprimentos dos lados de um
 triângulo, descreva um algoritmo que verifique se os mesmos podem ser os comprimentos

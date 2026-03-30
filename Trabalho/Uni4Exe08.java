@@ -1,3 +1,5 @@
+package Trabalho;
+
 /* Enunciado:
 Dado uma letra, escreva um algoritmo que informe se ela é ou não uma vogal.
 

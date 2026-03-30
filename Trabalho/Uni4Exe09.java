@@ -1,3 +1,4 @@
+package Trabalho;
 /* Enunciado:
 Dados dois valores inteiros, escreva um algoritmo que informe se eles são múltiplos ou não.
 

@@ -1,3 +1,4 @@
+package Trabalho;
 /* Enunciado:
 Escreva um algoritmo para ler o ano de nascimento de 3 irmãos, escrever uma
 mensagem que indique se eles são TRIGÊMEOS, GÊMEOS, APENAS IRMÃOS. Considere
